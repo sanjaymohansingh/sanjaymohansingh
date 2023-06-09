@@ -15,12 +15,12 @@
 
 - 📫 How to reach me **sanjaysingh19p@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://Sanjay-mohan-singh.github.io/)**
+- 🔭 Know more about me **[Portfolio](https://sanjay-mohan-singh.onrender.com)**
 
 ## 🌐 Connect with me::
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-mohan-singh-b847ba160/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://Sanjay-mohan-singh.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://sanjay-mohan-singh.onrender.com)
 
 # 💻 Tech Stack:
 
